@@ -48,12 +48,12 @@ Web 应用程序的核心是让任何地方的任何用户都能够注册账户�
 
 ### 单元测试用例
 
-![img](/python_project\learning_log\Image\1.jpg)
-![img](/python_project\learning_log\Image\2.jpg)
-![img](/python_project\learning_log\Image\3.jpg)
-![img](/python_project\learning_log\Image\4.jpg)
-![img](/python_project\learning_log\Image\5.jpg)
-![img](/python_project\learning_log\Image\6.jpg)
+![img](/python_project/learning_log/Image/1.jpg)
+![img](/python_project/learning_log/Image/2.jpg)
+![img](/python_project/learning_log/Image/3.jpg)
+![img](/python_project/learning_log/Image/4.jpg)
+![img](/python_project/learning_log/Image/5.jpg)
+![img](/python_project/learning_log/Image/6.jpg)
 
 ## 结论
 
